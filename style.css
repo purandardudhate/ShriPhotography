@@ -1,0 +1,40 @@
+.carousel-item img{
+    padding-top: 1%;
+    width: 100%;
+    height: 700px;
+}
+/* .card img{
+    width: 500px;
+    height: 300px;
+} */
+
+.zoom {
+    padding: 0 auto;
+    /* background-color: green; */
+    transition: transform .2s; /* Animation */
+    width: 200px;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  .img-thumbnail:hover {
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+  .babybody{
+    background-color: rgb(122, 217, 227);
+  }
+  .carosusel{
+    background-color: rgb(146, 228, 236);
+
+  }
+
+  .portfolioBody{
+    background-color: rgb(248, 222, 166);
+  }
+  .portfoliojeding{
+    font-family: cursive;
+  }
+  .card-text{
+    font-family: cursive;
+
+  }
